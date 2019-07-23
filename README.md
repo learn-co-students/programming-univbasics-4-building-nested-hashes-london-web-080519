@@ -12,7 +12,7 @@ In this lab, we will practice constructing a deeply nested hash.
 
 ## Instructions
 
-You are tasked with building a nested hash one layer (or "level") at a time, in
+You are tasked with building a nested hash one layer (or "level") at a time
 a similar way to how we built our `epic_tragedy` hash in the previous lesson.
 Read the test output very carefully; it will guide you through building the
 necessary methods. At the end of the exercise, your multidimensional monopoly
